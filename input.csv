@@ -1,0 +1,5 @@
+table_name,column_name
+patient_records,blood_pressure
+lab_results,glucose_level
+medications,medication_name
+appointments,appointment_date
